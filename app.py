@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 import os
 import sqlite3
 import plotly.graph_objects as go
-import pandas
+import pandas as pd
 
 # Load environment variables
 load_dotenv()
